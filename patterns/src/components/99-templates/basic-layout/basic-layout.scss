@@ -18,7 +18,7 @@
 }
 
 
-@include breakpoint(medium) {
+@media #{$medium-up} {
   .wrapper {
     flex-direction: row;
     padding: 0;
