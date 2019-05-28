@@ -1,0 +1,56 @@
+.sidenav {
+  background-color: #efefef;
+}
+
+.sidenav a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 85%;
+}
+
+.sidenav > li > a {
+  border-bottom: 1px solid #fff;
+  border-left: 4px solid palette(general,light);
+  font-size: 100%;
+}
+
+.sidenav > li > a:hover,
+.sidenav > li > a.selected {
+  border-left: 4px solid palette(general,primary);
+  background-color: palette(general,light);
+}
+
+.sidenav li li {
+  font-weight: bold;
+}
+
+.sidenav li li a:hover,
+.sidenav li li a.selected {
+  color: palette(general,dark);
+}
+
+.sidenav li li li {
+  font-weight: normal;
+}
+
+
+
+.sidenav li li {
+  padding-left: 1em;
+}
+
+.docs-problem {
+  margin-top: 2em;
+  padding: 10px;
+  border-top: 4px solid palette(general,primary);
+  background-color: #efefef;
+}
+
+.docs-problem a:link {
+  text-decoration: none;
+}
+
+.docs-problem a:hover {
+  text-decoration: underline;
+}

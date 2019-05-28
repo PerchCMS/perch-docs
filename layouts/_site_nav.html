@@ -1,0 +1,24 @@
+<nav class="site-nav">
+    <ul>
+        <li class="home-link{{#currentsection "perch" @root.nav_path}} selected{{/currentsection}}"><a href="/perch/">Perch Docs</a></li>
+        <li{{#currentsection "runway" @root.nav_path}} class="selected"{{/currentsection}}><a href="/runway/">Runway Docs</a></li>
+        <li{{#currentsection "video" @root.nav_path}} class="selected"{{/currentsection}}><a href="/video/">Video</a></li>
+        <li{{#currentsection "templates" @root.nav_path}} class="selected"{{/currentsection}}><a href="/templates/">Template Reference</a></li>
+        <li{{#currentsection "functions" @root.nav_path}} class="selected"{{/currentsection}}><a href="/functions/">Function Reference</a></li>
+        <li{{#currentsection "addons" @root.nav_path}} class="selected"{{/currentsection}}><a href="/addons/">Add-ons</a></li>
+        <li{{#currentsection "api" @root.nav_path}} class="selected"{{/currentsection}}><a href="/api/">API</a></li>
+    </ul>
+    
+    <!-- <form method="get" action="/search/" class="global-search" role="search">
+      <div class="input-group">
+        <label class="input-group-label" for="search-q">Search</label>
+        <input name="q" id="search-q" type="search" class="input-group-field" placeholder="Search">
+        <div class="input-group-button">
+            <input type="submit" class="button" value="Go">
+        </div>
+      </div>
+    </form> -->
+</nav>
+<div style="height: 40px;">
+  <!-- temporary placeholder for missing form. -->
+</div>

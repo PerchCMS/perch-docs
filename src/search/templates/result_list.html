@@ -1,0 +1,46 @@
+---
+layout: blank.html
+---
+<cms:before>    
+    <cms:if exists="suggestion">
+        <p><strong>Did you mean:</strong> <a href="/s/search/?s=<cms:content id="suggestion">"><cms:content id="suggestion"></a></p>
+    </cms:if>
+    <p class="meta"><cms:content id="total"> results | Page <cms:content id="current_page"> of <cms:content id="number_of_pages"></p>
+    <ul class="search-listing no-bullets">
+</cms:before>
+
+        <li>
+            <h3>
+                <a href="<cms:if id="type" value="solutions">http://solutions.grabaperch.com</cms:if><cms:content id="url">"><cms:content id="title"></a> </h3>  
+            <p class="excerpt"><cms:content id="excerpt" encode="false"></p>
+            
+            <p class="text-muted"><span><cms:content id="type" format="sentancecase"> - <cms:content id="url"></span></p>
+            <p></p>
+        </li>
+
+<cms:after>
+    </ul>
+    <div class="forum-paging">
+        <ul class="pagination">
+            <cms:if exists="not_first_page"><li><a href="<cms:content id="prev_url">">Previous</a></li></cms:if> 
+            <cms:if exists="not_last_page"><li><a href="<cms:content id="next_url">">Next</a></li></cms:if>
+        </ul>
+    </div>
+
+
+    <p class="text-muted">
+        Page <cms:content id="current_page"> of <cms:content id="number_of_pages">
+    </p>
+</cms:after>
+
+
+<cms:noresults>
+    <h2>Results for “<cms:content id="keywords">”</h2>
+    <p>
+        Sorry, there are no results that match “<cms:content id="keywords">”.
+        
+        <cms:if exists="suggestion">
+            <strong>Did you mean:</strong> <a href="/search/?q=<cms:content id="suggestion">"><cms:content id="suggestion"></a>?
+        </cms:if>
+    </p>
+</cms:noresults>

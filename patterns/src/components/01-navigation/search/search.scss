@@ -1,0 +1,20 @@
+.global-search {
+  margin: 0;
+  background-color: #fff;
+  border-top: 2px solid #fff;
+}
+
+.global-search .input-group {
+    margin-bottom: 0;
+}
+
+.global-search .text {
+  margin-right: 4px;
+}
+
+@media #{$medium-up} {
+  .global-search {
+    float: right;
+    width: 300px;
+  }
+}

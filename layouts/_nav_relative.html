@@ -1,0 +1,10 @@
+<ul>
+    <li>
+        {{title}}
+        <ul>
+        {{#each nav_children.primary}}
+            {{> nav__direct_children}}
+        {{/each}}
+        </ul>
+    </li>
+</ul>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{title}} - Perch CMS documentation</title>
+  <meta name="description" content="{{ description }}">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{ description }}">
+
+  <link href="/assets/css/docs.css" rel="stylesheet">
+
+</head>
+<body>
+  <nav class="global-bar show-for-small-only">
+    <ul class="nav-products">
+         <li class="docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+    </ul>
+    <a href="?nav=show" class="hamburger">☰</a>
+</nav>
+<nav class="global-bar primary show-for-medium">
+    <ul class="nav-products">
+        <li class="perch"><a href="https://grabaperch.com">Perch</a></li>
+        <li class="runway"><a href="https://perchrunway.com">Runway</a></li>
+        <li class="shop"><a href="https://shop.perchcms.com">Perch Shop</a></li>
+        <li class="addons first-right"><a href="https://grabaperch.com/add-ons">Add-ons</a></li>
+        <li class="selected docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+        <li class="support"><a href="hhttps://community.perchcms.com/forum/">Support</a></li>
+        <li class="account"><a href="https://grabaperch.com/account">Account</a></li>
+    </ul>
+</nav>
+{{> site_nav}}
+
+<main class="wrapper">
+    <nav class="sidebar">
+    {{> nav_global}}
+  </nav>
+
+<article class="content">
+  <h1>{{ title }}</h1>
+
+  <div class="flex-video widescreen">
+  <iframe src="//fast.wistia.net/embed/iframe/{{video_id}}?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed embed-responsive-item" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="847" height="476"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
+  </div>
+    
+  {{{ contents }}}
+</article>
+
+
+
+
+</main>
+{{> footer}}
+</body>
+</html>

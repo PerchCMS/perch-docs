@@ -1,0 +1,18 @@
+{{#if file}}
+{{#insection file.nav_path @root.nav_path}}
+    <li>
+    {{#equal file.nav_path @root.nav_path}}
+        <a href="{{linkTo path}}" class="selected">{{file.title}}</a>
+    {{else}}
+        <a href="{{linkTo path}}">{{file.title}}</a>
+    {{/equal}}
+    {{#each children}}
+        <ul>{{> nav__children}}</ul>
+    {{/each}}
+    </li>
+{{else}}
+    {{#each children}}
+        {{> nav__children}}
+    {{/each}}
+{{/insection}}
+{{/if}}

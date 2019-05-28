@@ -1,0 +1,43 @@
+<h1>Installing <code>Perch</code></h1>
+
+<p>Before you start:</p>
+<ol>
+<li>You need a webserver running PHP and MySQL to run Perch. This could be on your hosting or a local development server.</li>
+<li>You will need the MySQL database name, username and password.</li>
+<li>Check that your server meets the current Perch requirements by running the Compatibility Test.</li>
+<li>Download the zip containing the Perch software.</li>
+</ol>
+<h2 id="step-1-extract-the-perch-zip">Step 1: Extract the Perch zip</h2>
+<p>Inside the download you will find a file called example.php (which shows you how to add Perch to a page), a default search page (<code>search.php</code>), and a folder named <code>perch</code> which is the Perch software.</p>
+<h2 id="step-2-put-the-perch-folder-into-your-website-home-directory">Step 2: Put the perch folder into your website home directory</h2>
+<p>Copy the perch folder into your home directory. If you are setting Perch up directly on your hosting company server then FTP the entire folder to the home directory there. If you are going to try Perch out on your own computer you will need to place it into your site.</p>
+<p>If you want to rename the <code>perch</code> folder to something else - for example <code>admin</code> - then this is a good time to do that. The rest of these steps will assume that you ket the default <code>perch</code> and that this folder is in the root of your site.</p>
+
+<blockquote>
+<p>Here is a quote, we like quotes.</p>
+</blockquote>
+
+<h2 id="step-3-visit-the-setup-page">Step 3: Visit the setup page</h2>
+<p>Visit <code>/perch/setup</code> in a web browser. You will see a form.</p>
+<ul>
+<li>The license key is the one from your account for this site.</li>
+<li>Your details will create the first admin account in Perch.</li>
+<li>The install location is the location of perch in your site. If you just copied the <code>perch</code> folder into the root of your site then <code>/perch</code> is correct. If you renamed the Perch folder or put it into a subdirectory you need to update this.</li>
+<li>The final section is database settings – use the database location, name, username and password that worked for the Server Compatibility Test.</li>
+</ul>
+<p>After completing this form, hit submit. If we are able, Perch will write your configuration file for you. If your server permissions do not allow that you will see a block of configuration code.</p>
+<p>If you get the code, copy it to your clipboard, then open the file <code>/perch/config/config.php</code>.</p>
+<p>Paste the code into <code>config.php</code> using a <strong>plain text editor</strong> and save it.</p>
+<p>Back in your browser click ‘I’ve done that’ and Perch will install.</p>
+<p>Otherwise, move onto the steps below.</p>
+<h2 id="final-steps">Final Steps</h2>
+<p>You should now be able to log into Perch using the username and password you entered in the previous step.</p>
+<p>Delete the folder named <code>setup</code> which is directly inside the Perch folder.</p>
+<p>Make the <code>/perch/resources</code> folder writable by your webserver in order that files and images can be uploaded through Perch. Check with your host how to do this.</p>
+<h2 id="install-troubleshooting">Install Troubleshooting</h2>
+<p>For most users these steps will install Perch without any problems. However there are some issues that we see reasonably regularly. These tend to be webhost specific.</p>
+<h3 id="after-submitting-the-form-at-step-3-nothing-happens-">After submitting the form at Step 3. Nothing happens.</h3>
+<p>This usually means <strong>PHP Sessions</strong> are not configured fully on your server. Ask your host if there is anything you need to do to get PHP Sessions working on your server.</p>
+<p>If sessions are configured then the other possibility is that you have something causing a redirect on your server, for example in your <code>.htaccess</code> file.</p>
+<h3 id="you-see-a-message-that-perch-cannot-connect-to-the-database">You see a message that Perch cannot connect to the database</h3>
+<p>Perch needs to be able to connect to MySQL. Your host should provide you with a database name, username and password, which you enter during installation. Use the Compatibility Test to check that the details are correct and then use the exact same details during installation.</p>

@@ -1,0 +1,85 @@
+.global-bar {
+  background-color: #464650;
+  color: #fff;
+  @media #{$medium-up} {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-between;
+  }
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.global-bar.show-for-small-only {
+  display: flex;
+}
+
+.global-bar.show-for-small-only .hamburger {
+  margin-left: auto;
+}
+
+@media #{$medium-up} {
+
+  .global-bar ul,
+  .site-nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .global-bar li,
+  .site-nav li {
+    flex: 1 1 50%;
+    flex: 0 1 auto;
+  }
+
+}
+
+
+
+.global-bar a,
+.site-nav a{
+  display: block;
+  padding: 1rem;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: $small-font-size;
+}
+
+.global-bar .first-right {
+  margin-left: auto;
+}
+
+.global-bar .selected.perch,
+.global-bar .perch:hover {
+  background-color: palette(perch, primary);
+}
+
+.global-bar .selected.runway,
+.global-bar .runway:hover {
+  background-color: palette(runway, primary);
+}
+
+.global-bar .selected.shop,
+.global-bar .shop:hover {
+  background-color: palette(shop, primary);
+}
+
+.global-bar .selected.addons,
+.global-bar .addons:hover {
+  background-color: palette(addons, primary);
+}
+
+.global-bar .selected.docs,
+.global-bar .selected.account,
+.global-bar .selected.support,
+.global-bar .docs:hover,
+.global-bar .account:hover,
+.global-bar .support:hover {
+  background-color: palette(general, primary);
+}

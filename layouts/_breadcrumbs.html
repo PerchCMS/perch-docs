@@ -1,0 +1,17 @@
+<ol class="breadcrumb">
+    <li>
+        <a href="/">Home</a>
+    </li>
+    {{#each breadcrumb_path}}
+    <li>
+        {{#if file}}
+            <a href="{{linkTo path}}">{{file.title}}</a>
+        {{else}}
+            {{name}}
+        {{/if}}
+    </li>
+    {{/each}}
+    <li class="active">
+        {{title}}
+    </li>
+</ol>
