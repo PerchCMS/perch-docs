@@ -3024,7 +3024,7 @@ table img {
 .content {
   order: 1; }
 
-@media print, screen and (min-width: 40em) {
+@media screen and (min-width: 40em) {
   .wrapper {
     flex-direction: row;
     padding: 0;
