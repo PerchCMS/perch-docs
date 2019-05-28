@@ -16,7 +16,7 @@ You use Bootstrap by including the Bootstrap CSS and JavaScript. For this soluti
 
 ## The jumbotron
 
-![Jumbotron via Perch](http://static.grabaperch.com/solutions/bootstrap-templates-jumbotron.png){.img-thumbnail}
+![Jumbotron via Perch](https://static.grabaperch.com/solutions/bootstrap-templates-jumbotron.png){.img-thumbnail}
 
 The [jumbotron](http://getbootstrap.com/components/#jumbotron) is a large header area that can be used as a call to action. My template adds the header and body along with a link styled as a button.
 
@@ -44,7 +44,7 @@ The [Page Header](http://getbootstrap.com/components/#page-header) component giv
 
 ## Thumbnails
 
-![Thumbnails created by Perch](http://static.grabaperch.com/solutions/bootstrap-templates-thumbnails.png){.img-thumbnail}
+![Thumbnails created by Perch](https://static.grabaperch.com/solutions/bootstrap-templates-thumbnails.png){.img-thumbnail}
 
 [Default Thumbnails](http://getbootstrap.com/components/#thumbnails-default) just give you a grid of images. I contain the grid within `perch:before` and `perch:after` tags and then set this region to **Allow Multiples** when selecting the template in the Perch Control Panel.
 
@@ -87,7 +87,7 @@ The [Page Header](http://getbootstrap.com/components/#page-header) component giv
 
 ## Media Object
 
-![Media Object created by Perch](http://static.grabaperch.com/solutions/bootstrap-templates-media.png){.img-thumbnail}
+![Media Object created by Perch](https://static.grabaperch.com/solutions/bootstrap-templates-media.png){.img-thumbnail}
 
 The [Media Object](http://getbootstrap.com/components/#media) is for building components that feature a left or right aligned image along with some other content.
 
@@ -105,7 +105,7 @@ The [Media Object](http://getbootstrap.com/components/#media) is for building co
 
 ## Panels
 
-![Panels created by Perch](http://static.grabaperch.com/solutions/bootstrap-templates-panels.png){.img-thumbnail}
+![Panels created by Perch](https://static.grabaperch.com/solutions/bootstrap-templates-panels.png){.img-thumbnail}
 
 The [Panel](http://getbootstrap.com/components/#panels) Component means you can put content in a box. The Panel can optionally have a header and footer and there are also ways to give Panels contextual styles. My first template is just a simple panel with a header and an optional footer.
 
@@ -133,7 +133,7 @@ Bootstrap gives a list of classes that can be applied to a panel instead of `pan
 
 In order that content editors can choose which type of Panel to create we can give them a drop down list in the Perch Control Pane when editing this content, using the Perch template tag with a type of [select](http://docs.grabaperch.com/docs/templates/attributes/type/select/).
 
-![Perch Admin](http://static.grabaperch.com/solutions/bootstrap-templates-admin.png){.img-thumbnail}
+![Perch Admin](https://static.grabaperch.com/solutions/bootstrap-templates-admin.png){.img-thumbnail}
 
 Select takes a list of options, and you can separate a friendly name for the option - that will be displayed in admin - from the value that is output.  We then output the chosen class to the content.
 
