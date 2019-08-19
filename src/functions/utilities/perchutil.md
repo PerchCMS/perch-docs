@@ -12,10 +12,14 @@ PerchUtil::urlify('Some String');
 
 ## Debugging
 
+Enable [debug mode](/perch/configuration/debug/) to use the below debugging methods.
+
 |Method|Purpose|
 |-|-|
-|debug|Add a message to the debug output (when [debug mode](https://docs.grabaperch.com/perch/configuration/debug/) is enabled). |
-|mark|Add a highlighted message to the debug output (when [debug mode](https://docs.grabaperch.com/perch/configuration/debug/) is enabled).|
+|debug|Add a message (string, array or object) to the debug output.|
+|mark|Add a highlighted message to the debug output.|
+|output_debug|Output the debug messages.|
+
 
 ## Redirects
 
