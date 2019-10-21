@@ -2,3 +2,4 @@ public/*
 .DS_Store
 node_modules
 src/data/search.json
+yarn.lock
