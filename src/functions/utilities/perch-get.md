@@ -37,7 +37,7 @@ Then to get the value of `count` we can use `perch_get()`.
 perch_get('count');
 ```
 
-If we want to set the count to 10 if there is no `count` vale passed in we can use:
+If we want to set the count to 10 if there is no `count` value passed in we can use:
 
 ```php
 perch_get('count', 10);

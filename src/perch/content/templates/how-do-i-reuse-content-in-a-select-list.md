@@ -27,3 +27,4 @@ On my job listing page I want the editor to just be able to select one of the of
 * The type is `dataselect`
 * The `region` attribute is the Perch Region on the page
 * The `options` attribute is used to pass in the field or fields I want to use in my dataselect. You can use multiple fields, separated by spaces.
+* The `allowempty` boolean attribute is used to make the selection optional. 
