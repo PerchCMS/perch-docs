@@ -107,6 +107,11 @@ var indexer 		 = require('./plugins/indexer/index.js');
 		directory: 'public'
 	});
 
+	var redirectsTask = mscopy({
+		pattern: '_redirects',
+		directory: 'public'
+	});
+
 	var contentTemplatingTask = inPlace({
 		engine: 'handlebars',
 		partials: './partials/'
@@ -321,7 +326,7 @@ var metalsmith = metalsmith(__dirname)
 	.use(layoutsTask)
 	.use(sitemapTask)
 	.use(assetsTask)
-
+	.use(redirectsTask)
 	.use(textReplaceTask)
 	.destination('public')
 	.build(function (err) {
