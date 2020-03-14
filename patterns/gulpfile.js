@@ -12,6 +12,7 @@ const autoprefixer = require('gulp-autoprefixer');
 const fs           = require('fs');
 const path         = require('path');
 const uglify       = require('gulp-uglify');
+const babel        = require('gulp-babel');
 
 const sassPaths = [
     'node_modules/foundation-sites/scss'
@@ -72,6 +73,9 @@ function buildSass(cb) {
 function copyJavaScript(cb) {
     return (
         gulp.src('src/assets/js/**/*')
+        .pipe(babel({
+            presets: ['@babel/env']
+        }))
         .pipe(uglify())
         .pipe(gulp.dest('static/js/'))
     );
@@ -89,6 +93,10 @@ function watchForChanges(cb) {
         'src/components/**/*.scss',
         'src/assets/css/**/*.scss'
     ], buildSass);
+
+    watch([
+        'src/assets/js/**/*.js'
+    ], copyJavaScript);
 } 
 
 exports.default = series(startFractal, copyJavaScript, copySVG, buildSass, watchForChanges);

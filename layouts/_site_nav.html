@@ -8,17 +8,45 @@
         <li{{#currentsection "addons" @root.nav_path}} class="selected"{{/currentsection}}><a href="/addons/">Add-ons</a></li>
         <li{{#currentsection "api" @root.nav_path}} class="selected"{{/currentsection}}><a href="/api/">API</a></li>
     </ul>
-    
-    <!-- <form method="get" action="/search/" class="global-search" role="search">
-      <div class="input-group">
-        <label class="input-group-label" for="search-q">Search</label>
-        <input name="q" id="search-q" type="search" class="input-group-field" placeholder="Search">
-        <div class="input-group-button">
-            <input type="submit" class="button" value="Go">
-        </div>
-      </div>
-    </form> -->
+
+    <div class="global-search" role="search">
+      <div class="gcse-searchbox"></div>
+    </div>
+
+    <style>
+      .custom-search {
+        with
+      }
+  
+      table.gsc-input {
+        margin: 0;
+        height: 1.5em;
+      }
+
+      form.gsc-search-box {
+        margin: 0;
+      }
+
+      .gsc-search-box tbody {
+        border: none;
+      }
+
+      .gsc-search-box tbody td {
+        padding: 0;
+      }
+
+      .gsc-control-cse {
+        padding: 0;
+      }
+
+      .gsc-input-box {
+        border: none;
+      }
+
+      .gsc-search-box a {
+        padding: 0;
+      }
+    </style>
 </nav>
-<div style="height: 40px;">
-  <!-- temporary placeholder for missing form. -->
-</div>
+
+<div class="gcse-searchresults"></div>
