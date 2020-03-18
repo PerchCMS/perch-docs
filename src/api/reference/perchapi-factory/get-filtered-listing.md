@@ -60,10 +60,19 @@ $pre_template_callback = function($rows, $opts) {
 | Array | An array of the returned rows                          |
 | Array | The options array passed from `get_filtered_listing()` |
 
-## Return
 
-TBD
 
 ## Usage
 
-TBD
+
+```php
+$API = new PerchAPI(1.0, 'company_app');
+$Articles = new CompanyApp_Articles($API);
+
+$Articles->get_filtered_listing([
+  'template' => $template,
+  'filter' => 'status',
+  'match' => 'eq',
+  'value' => 'published',
+]);
+```
