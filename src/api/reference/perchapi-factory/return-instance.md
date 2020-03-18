@@ -4,16 +4,25 @@ nav_groups:
   - primary
 ---
 
-
+The method takes a single row and returns a `PerchAPI_Base` object.
 
 ## Parameters
 
-TBD
+| Type  | Description |
+| ----- | ----------- |
+| Array | Row         |
 
 ## Return
 
-TBD
+The method returns an array of `PerchAPI_Base` objects. If none found, it returns `false`.
 
 ## Usage
 
-TBD
+```php
+$API = new PerchAPI(1.0, 'company_app');
+$Articles = new CompanyApp_Articles($API);
+$DB = $API->get('DB');
+
+$row = $DB->get_row("SELECT * FROM " . $table . " WHERE status=published LIMIT 1");
+$Article = $Articles->return_instance($row);
+```
