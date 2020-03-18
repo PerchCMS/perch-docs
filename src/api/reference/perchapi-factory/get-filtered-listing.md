@@ -23,8 +23,6 @@ $Factory->get_filtered_listing($opts, $where_callback, $pre_template_callback);
 
 | Option | Value |
 | ------ | ----- |
-
-
 {{> rows_custom_vars }}
 {{> rows_pagination_vars }}
 
