@@ -15,7 +15,7 @@ $Factory->get_filtered_listing($opts, $where_callback, $pre_template_callback);
 
 | Type     | Description                     | Default |
 | -------- | ------------------------------- | ------- |
-| Opts     | Options array, see table below  |         |
+| Array    | Options array, see table below  |         |
 | Function | See where callback below        | `null`  |
 | Function | See pre-template callback below | `null`  |
 
