@@ -2,6 +2,7 @@
 title: return_instance()
 nav_groups:
   - primary
+nav_sort: 10
 ---
 
 The method takes a single row and returns a `PerchAPI_Base` object.
@@ -14,7 +15,7 @@ The method takes a single row and returns a `PerchAPI_Base` object.
 
 ## Return
 
-The method returns an array of `PerchAPI_Base` objects. If none found, it returns `false`.
+The method returns a `PerchAPI_Base` object. If the given row is empty, it returns `false`.
 
 ## Usage
 

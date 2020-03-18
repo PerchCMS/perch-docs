@@ -2,19 +2,20 @@
 title: return_instances()
 nav_groups:
   - primary
+nav_sort: 11
 ---
 
 The method takes an array of rows and returns an array of `PerchAPI_Base` objects.
 
 ## Parameters
 
-| Type  | Description   |
-| ----- | ------------- |
-| Array | Array of rows |
+| Type  | Description |
+| ----- | ----------- |
+| Array | Rows        |
 
 ## Return
 
-The method returns an array of `PerchAPI_Base` objects. If none found, it returns `false`.
+The method returns an array of `PerchAPI_Base` objects. If the given rows are empty, it returns `false`.
 
 ## Usage
 
