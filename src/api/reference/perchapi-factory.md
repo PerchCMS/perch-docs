@@ -14,7 +14,7 @@ The class comes with a number of useful methods for writing and fetching data to
 
 ## Naming convention
 
-Try to keep your classes namespaced by prefixing your (company) name and app name. So if you're company is called `Company` and your app is called `App`, you would use `CompanyApp_Articles`:
+Try to keep your classes namespaced by prefixing your (company) name and app name. So if your company is called `Company` and your app is called `App`, you would use `CompanyApp_Articles`:
 
 ```php
 class CompanyApp_Articles extends PerchAPI_Factory { }
