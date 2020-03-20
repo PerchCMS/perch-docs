@@ -16,7 +16,7 @@ $SubmittedForm->throw_error($type, $field);
 | Type   | Description                      | Default |
 | ------ | -------------------------------- | ------- |
 | string | The type of error. e.g. `format` |         |
-| field  | The form field ID                | `all`   |
+| string | The form field ID                | `all`   |
 
 ## Usage
 

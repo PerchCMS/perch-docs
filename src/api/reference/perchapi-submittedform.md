@@ -4,11 +4,13 @@ nav_groups:
   - primary
 ---
 
-When a Perch-templated form is submitted, Perch adds the submitted data along other information to an instance of the `PerchAPI_SubmittedForm` class and calls the specified app's form handler function.
+When a [Perch-templated form](/templates/form/) is submitted, Perch adds the submitted data along with other information to an instance of the `PerchAPI_SubmittedForm` class and use it as the function argument when calling the specified app's form handler function.
 
 ```html
 <perch:form id="comment" app="company_app" method="post"></perch:form>
 ```
+
+Your app's form handler function must be added as a [runtime function](/api/apps/runtime-functions/). It should be called `{your_app_ID}_form_handler`:
 
 ```php
 function company_app_form_handler($SubmittedForm) {}
