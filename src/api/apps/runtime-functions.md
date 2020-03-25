@@ -44,3 +44,19 @@ If your app uses a [template handler](/api/templates/) for handling custom templ
 ```php
 PerchSystem::register_template_handler('MyApp_Template');
 ```
+
+## Form handler
+
+If your app needs to handle forms, you can add a form handler function. Perch will call this function when a [Perch-templated form](/templates/form/) that specifies your app as the handler is submitted:
+
+```html
+<perch:form id="register" app="my_app" method="post"></perch:form>
+```
+
+Your function must be called `{your_app_ID}_form_handler`:
+
+```php
+function my_app_form_handler($SubmittedForm) {}
+```
+
+The form handler receives a [PerchAPI_SubmittedForm](/api/reference/perchapi-submittedform), which you can use to validate the submission and access the submitted data and uploaded files.
