@@ -2,7 +2,7 @@
 title: update()
 nav_groups:
   - primary
-nav_sort: 1
+nav_sort: 2
 ---
 
 The `update()` method is used to update an item's data in the database.
