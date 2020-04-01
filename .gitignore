@@ -4,4 +4,3 @@ node_modules
 patterns/node_modules
 patterns/public/*
 src/data/search.json
-yarn.lock
