@@ -1,5 +1,7 @@
 # Perch documentation
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ccb393d4-f23f-47e2-a569-8cd648a191f9/deploy-status)](https://app.netlify.com/sites/perchdocs/deploys)
+
 All CSS changes are made in the pattern library. The build process for the docs then pulls the compiled CSS from the pattern library into the docs build.
 
 ## To install the pattern library
