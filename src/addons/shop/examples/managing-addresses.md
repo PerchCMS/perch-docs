@@ -22,7 +22,7 @@ with a Runway route of
 
 `address/edit/[i:addressID]`
 
-You could product an edit form using:
+You could produce an edit form using:
 
 ```php
 <?php
