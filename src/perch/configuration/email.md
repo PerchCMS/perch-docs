@@ -16,7 +16,7 @@ If you are not receiving mail then ask your host what you need to do to send mai
 |-|-|
 |PERCH_EMAIL_FROM|Default email address to send mail from|
 |PERCH_EMAIL_FROM_NAME|Default name to send email from|
-|PERCH_EMAIL_METHOD|mail, smtp or sendmail|
+|PERCH_EMAIL_METHOD|mail, smtp, sendmail, api|
 |PERCH_EMAIL_HOST|Host for SMTP mail|
 |PERCH_EMAIL_AUTH|True or false. Use authenticated SMTP|
 |PERCH_EMAIL_PORT|SMTP port. Defaults to 25|
@@ -43,3 +43,6 @@ If sending through Gmail, you now need to enable [less secure apps settings](htt
 If sending through Office 365, the `PERCH_EMAIL_FROM` value must match the value of `PERCH_EMAIL_USERNAME` (your Office 365 email address).
 
 Microsoft may reject sending emails if the `PERCH_EMAIL_FROM_NAME` is set to an email address.
+
+## Api Method
+If using the API method, Perch will fire the `email.send` event hook.   You can configure a custom app to listen to the `email.send` event using the [Perch Event Hook](/api/events/) system to handle the email as required.
