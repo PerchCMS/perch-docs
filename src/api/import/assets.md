@@ -92,8 +92,8 @@ So to use asset 630 with a field called `image` in a collection item, we'd use:
 		'body'          => 'Some **exciting news** has _just_ broken...',
 		'slug'          => 'breaking-news',
 		'date'          => '2012-04-28 12:23:09',
-        'category'      => ['articles/news', 'articles/flippin-exciting'],
-        'image'         => '',
+		'category'      => ['articles/news', 'articles/flippin-exciting'],
+		'image'         => '',
 		'image_assetID' => 630,
 	]);	
 ```
