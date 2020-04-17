@@ -79,7 +79,10 @@ Our asset ID is `630` in this case.
 
 ## Using the asset
 
-To use an asset with other content, you need to provide the asset ID. To do this, you specify the ID of the asset field in your template, appending `_assetID` to the name.
+To use an asset with other content, you need to provide the asset ID. To do this, you need 2 array elements:
+1. set the ID of the asset field in your template to an empty string e.g. `'image' => ''`
+2. append `_assetID` to the field ID and provide this array element with the asset ID. e.g. `'image_assetID' => 630`
+ 
 
 So to use asset 630 with a field called `image` in a collection item, we'd use:
 
@@ -90,6 +93,7 @@ So to use asset 630 with a field called `image` in a collection item, we'd use:
 		'slug'          => 'breaking-news',
 		'date'          => '2012-04-28 12:23:09',
 		'category'      => ['articles/news', 'articles/flippin-exciting'],
+		'image'         => '',
 		'image_assetID' => 630,
 	]);	
 ```
