@@ -30,6 +30,7 @@ The options for filter, match and value work just like
 |-|-|
 |tag|A single tag or array of tags to return content for. To exclude a tag, prefix its name with an exclamation point.|
 |category|A single category slug or array of category slugs to return content for. To exclude a category, prefix its name with an exclamation point.|
+|author|A single author slug or ID to filter the results by.|
 |section|A single section slug to filter the results by.|
 |blog|The slug of the blog to pull content from. See [Multiple Blogs](/addons/blog/multiple-blogs/).|
 {{> rows_custom_vars  }}
