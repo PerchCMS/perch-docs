@@ -24,6 +24,7 @@ Display a list of products with `perch_shop_products()`.
 |Name|Value|
 |-|-|
 {{> rows_custom_vars }}
+{{> rows_pagination_vars }}
 
 ## Usage examples
 
