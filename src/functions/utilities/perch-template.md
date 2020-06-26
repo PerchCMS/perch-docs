@@ -183,7 +183,7 @@ Instead of writing and managing the same HTML markup in multiple files, you can 
 if( !perch_member_has_tag('email-verified') ) {
   perch_template('util/notification.html', [
     'type' => 'warning',
-    'message' => 'Your email address ' . perch_member_get('email') ' is not verified.',
+    'message' => 'Your email address ' . perch_member_get('email') . ' is not verified.',
   ]);
 }
 
