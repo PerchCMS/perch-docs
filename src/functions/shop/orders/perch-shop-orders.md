@@ -24,6 +24,7 @@ Display a list of orders for the logged in customer using `perch_shop_orders()`.
 |Name|Value|
 |-|-|
 {{> rows_custom_vars }}
+{{> rows_pagination_vars }}
 
 ## Usage examples
 

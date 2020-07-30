@@ -25,6 +25,7 @@ Display a list of product variants for a given product with `perch_shop_product_
 |Name|Value|
 |-|-|
 {{> rows_custom_vars }}
+{{> rows_pagination_vars }}
 
 ## Usage examples
 

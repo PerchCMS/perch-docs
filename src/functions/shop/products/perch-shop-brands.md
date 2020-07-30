@@ -24,6 +24,7 @@ Display a list of brands used in your store with `perch_shop_brands()`.
 |Name|Value|
 |-|-|
 {{> rows_custom_vars }}
+{{> rows_pagination_vars }}
 
 ## Usage examples
 
