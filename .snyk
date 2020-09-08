@@ -1,0 +1,30 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - metalsmith-collections > debug:
+        patched: '2020-09-08T13:27:39.705Z'
+    - metalsmith-in-place > debug:
+        patched: '2020-09-08T13:27:39.705Z'
+    - metalsmith-layouts > debug:
+        patched: '2020-09-08T13:27:39.705Z'
+  'npm:extend:20180424':
+    - metalsmith-collections > extend:
+        patched: '2020-09-08T13:27:39.705Z'
+    - metalsmith-in-place > extend:
+        patched: '2020-09-08T13:27:39.705Z'
+    - metalsmith-layouts > extend:
+        patched: '2020-09-08T13:27:39.705Z'
+  'npm:minimatch:20160620':
+    - metalsmith-assets > recursive-readdir > minimatch:
+        patched: '2020-09-08T13:27:39.705Z'
+    - metalsmith-text-replace > minimatch:
+        patched: '2020-09-08T13:27:39.705Z'
+  'npm:moment:20170905':
+    - metalsmith-permalinks > moment:
+        patched: '2020-09-08T13:27:39.705Z'
+  'npm:ms:20151024':
+    - metalsmith-text-replace > debug > ms:
+        patched: '2020-09-08T13:27:39.705Z'
