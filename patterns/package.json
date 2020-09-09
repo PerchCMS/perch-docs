@@ -9,8 +9,8 @@
   "author": "Drew McLellan",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
     "@frctl/fractal": "^1.1.7",
     "foundation-sites": "^6.5.3",
     "gulp-autoprefixer": "^6.1.0",
