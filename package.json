@@ -16,7 +16,7 @@
   "author": "Drew McLellan",
   "license": "SEE LICENSE IN license.md",
   "dependencies": {
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.7.7",
     "highlighter": "0.0.3",
     "jsonfile": "^2.3.1",
     "lodash": "^4.17.5",
