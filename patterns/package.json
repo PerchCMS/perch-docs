@@ -4,7 +4,9 @@
   "description": "Pattern library for Perch Docs",
   "main": "fractal.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Drew McLellan",
   "license": "ISC",
@@ -19,9 +21,11 @@
     "gulp-plumber": "^1.2.1",
     "gulp-sass": "^4.0.2",
     "gulp-sass-glob": "^1.0.9",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "snyk": "^1.490.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2"
-  }
+  },
+  "snyk": true
 }
