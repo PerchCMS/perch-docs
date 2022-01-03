@@ -1,10 +1,10 @@
 ---
-title: Upgrading to Runway 4
+title: Upgrading to Runway 3
 nav_groups:
   - primary
 ---
 
-Perch Runway 4 is a new major version of Perch Runway with some big interface changes. A lot of the underlying structure is backwards compatible, so upgrading to Perch Runway 4 is not complex. 
+Perch Runway 3 is a new major version of Perch Runway with some big interface changes. A lot of the underlying structure is backwards compatible, so upgrading to Perch Runway 3 is not complex. 
 
 ## Before you start
 
@@ -48,7 +48,7 @@ You don't need the Content or Categories apps listed like in the past. Just add 
 
 ### 3. Remove unnecessary add-ons
 
-Perch Runway 4 contains the MarkItUp and Redactor edits as part of core, so you can remove:
+Perch Runway 3 contains the MarkItUp and Redactor edits as part of core, so you can remove:
 
 - `perch/addons/plugins/editors/markitup`
 - `perch/addons/plugins/editors/redactor`
@@ -68,7 +68,7 @@ And update your `perch/config/runway.php` file to change the `handler_path` for 
 
 ### 4. Update your apps
 
-Changes in Runway 4 mean that your Runway 3 apps won't work without being updated. Therefore you need to download the latest versions of your apps from the new [add-ons site](https://addons.perchcms.com/).
+Changes in Runway 3 mean that your Runway 2 apps won't work without being updated. Therefore you need to download the latest versions of your apps from the new [add-ons site](https://addons.perchcms.com/).
 
 ### 5. Log in
 
