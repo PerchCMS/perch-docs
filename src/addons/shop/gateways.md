@@ -13,7 +13,7 @@ Instructions are available for the following gateways:
 |[Manual](/addons/shop/gateways/manual/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|N/A||
 |[PayPal Express](/addons/shop/gateways/paypal-express/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||
 |[Stripe](/addons/shop/gateways/stripe/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||
-|[Stripe SCS](/addons/shop/gateways/stripe-sca/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||
+|[StripeSCA](/addons/shop/gateways/stripe-sca/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||
 |[Worldpay](/addons/shop/gateways/worldpay/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||||
 
 
