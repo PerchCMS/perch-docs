@@ -6,6 +6,10 @@ nav_groups:
 
 All notable changes to Perch Shop.
 
+## [1.2.6] - 2020-06-21
+### Fixed
+- Fixes for PHP 8 compatibility
+
 ## [1.2.5] - 2017-09-21
 ### Added
 - Adds search indexing for lookup fields
