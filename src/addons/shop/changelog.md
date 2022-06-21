@@ -6,6 +6,17 @@ nav_groups:
 
 All notable changes to Perch Shop.
 
+## [1.2.8] - 2022-06-21
+### Added
+- PDF Invoice generator new functionality
+- Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
+
+## [1.2.7] - 2022-04-27
+### Added
+- New SCA Stripe integration
+- Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
+
+
 ## [1.2.6] - 2020-06-21
 ### Fixed
 - Fixes for PHP 8 compatibility
