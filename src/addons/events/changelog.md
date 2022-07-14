@@ -5,6 +5,13 @@ nav_groups:
 ---
 
 All notable changes to Perch Events.
+## [1.9.6]
+Add time slots and booking feature
+- Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
+
+
+## [1.9.4] [1.9.5]
+Fix for PHP 8 compatibility
 
 ## [1.9.3]
 
