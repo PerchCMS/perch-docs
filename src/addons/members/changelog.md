@@ -7,10 +7,10 @@ nav_groups:
 All notable changes to Perch Members.
 
 ## 1.9.5
--New Filtering for Members you can search members by Name, Email, Registered Date, and Status.
--New Feature  `Download CSV​` , user can download a list of Members from the  Perch Control Panel
--New Feature `Notes` capturing for each member on Perch Control Panel, logs the date added and by which user.
--New Feature `Documents` admin can upload any Document that wishes to save for the member
+- New Filtering for Members you can search members by Name, Email, Registered Date, and Status.
+- New Feature  `Download CSV​` , user can download a list of Members from the  Perch Control Panel
+- New Feature `Notes` capturing for each member on Perch Control Panel, logs the date added and by which user.
+- New Feature `Documents` admin can upload any Document that wishes to save for the member
 - Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
 
 
