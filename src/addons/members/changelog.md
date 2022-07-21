@@ -14,7 +14,6 @@ All notable changes to Perch Members.
 - Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
 
 
-- Improves support for access restriction on routed pages in Perch Runway
 
 ## 1.4
 
