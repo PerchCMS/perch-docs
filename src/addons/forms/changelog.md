@@ -6,6 +6,9 @@ nav_groups:
 
 All notable changes to Perch Forms.
 
+## [1.13]
+New function for retrieve form responses based on specific field value
+
 ## [1.8.3]
 
 Fixes bug with var substitution and template selection
