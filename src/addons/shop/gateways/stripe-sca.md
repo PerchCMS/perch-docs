@@ -1,5 +1,5 @@
 ---
-title: Stripe
+title: Stripe SCA
 nav_groups:
   - primary
 ---
