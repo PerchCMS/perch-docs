@@ -1,5 +1,5 @@
 ---
-title: Example Form Template
+title: Example Form with Recaptcha Template
 nav_groups:
   - primary
 ---
