@@ -56,16 +56,4 @@ Pass in an alternate template.
  
 ```
 
-Return the comments rather than displaying them.
-
-
-```php
-
- perch_form_reponses(4,array(
-                    template => 'my_template.html',
-                      'by_field'=>'name',
-                       'value'=>'Tom'
-                       ),true);
-
-```
 
