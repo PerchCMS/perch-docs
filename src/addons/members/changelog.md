@@ -5,6 +5,8 @@ nav_groups:
 ---
 
 All notable changes to Perch Members.
+## 1.6.6
+
 
 ## 1.6.5
 - New Filtering for Members you can search members by Name, Email, Registered Date, and Status.
