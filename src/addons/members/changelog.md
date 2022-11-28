@@ -6,7 +6,7 @@ nav_groups:
 
 All notable changes to Perch Members.
 
-## 1.9.5
+## 1.6.5
 - New Filtering for Members you can search members by Name, Email, Registered Date, and Status.
 - New Feature  `Download CSV​` , user can download a list of Members from the  Perch Control Panel
 - New Feature `Notes` capturing for each member on Perch Control Panel, logs the date added and by which user.
