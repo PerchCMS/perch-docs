@@ -7,7 +7,7 @@ nav_groups:
 All notable changes to Perch Shop.
 ## [1.3.0] - 2023-02-14
 ### Fixed
-- Update for Stripe Sca
+- Update library for Stripe Sca
 - Fixes for PHP 8.1 compatibility
 - Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
 
