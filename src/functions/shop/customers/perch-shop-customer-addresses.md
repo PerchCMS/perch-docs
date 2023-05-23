@@ -47,5 +47,5 @@ Available options include:
 |-|-|
 |Option|Value|
 |-|-|
-{% include options/rows_custom_vars.html %}
+<!-- {% include options/rows_custom_vars.html %} -->
 
