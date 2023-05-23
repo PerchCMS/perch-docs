@@ -1,0 +1,40 @@
+
+
+// global palettes (all sites)
+$palettes: (
+    ui: (
+      	primary: rgb(136, 62, 148),
+      	dark: rgb(68, 31, 74),
+      	light: rgb(197, 160, 203)
+    ),
+    runway: (
+        primary: rgb(115,117,147),
+        dark: rgb(57, 58, 73),
+        light: rgb(185,185,200)
+    ),
+    perch: (
+        primary: rgb(78,193,236),
+        dark: rgb(38, 96, 118),
+        light: rgb(165, 223, 245)
+    ),
+    shop: (
+        primary: rgb(94, 193,192),
+        dark: rgb(46, 96, 96),
+        light: rgb(174, 224, 223)
+    ),
+    general: (
+        primary: rgb(73, 113, 176),
+        dark: rgb(36, 57, 88),
+        light: rgb(164, 184, 215)
+    ),
+    addons: (
+        primary: rgb(252, 165, 174),
+        dark: rgb(126, 82, 86),
+        light: rgb(253, 209, 214)
+    )
+);
+
+// Palette function,
+@function palette($palette, $tone: 'primary') {
+    @return map-get(map-get($palettes, $palette), $tone);
+}

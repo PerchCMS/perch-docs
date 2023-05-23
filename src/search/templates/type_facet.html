@@ -1,0 +1,27 @@
+---
+layout: blank.html
+---
+<cms:before>
+<section class="search">
+    <h3>Filter
+        <cms:if exists="clear_url"><a href="<cms:content id="clear_url">" class="label label-info">Clear filter</a></cms:if>
+    </h3>
+   
+    <ul class="list-group">
+</cms:before>
+    <cms:if exists="selected">
+        <li class="list-group-item active">
+            <span class="badge"><cms:content id="count"></span>
+            <cms:content id="value" format="sentancecase">
+        </li>
+    <cms:else>
+        <li class="list-group-item">
+            <span class="badge"><cms:content id="count"></span>
+            <a href="<cms:content id="link">"><cms:content id="value" format="sentancecase"></a>
+        </li>
+    </cms:if>
+
+<cms:after>    
+    </ul>
+</section>
+</cms:after>

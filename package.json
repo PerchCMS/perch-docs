@@ -1,0 +1,39 @@
+{
+  "name": "perch3docs",
+  "version": "1.0.1",
+  "description": "Documentation for Perch 3",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@edgeofmyseat.git.beanstalkapp.com:/edgeofmyseat/perch3docs.git"
+  },
+  "keywords": [
+    "docs"
+  ],
+  "author": "Drew McLellan",
+  "license": "SEE LICENSE IN license.md",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "highlighter": "0.0.3",
+    "jsonfile": "^2.3.1",
+    "lodash": "^4.17.5",
+    "metalsmith": "^2.1.0",
+    "metalsmith-assets": "^0.1.0",
+    "metalsmith-collections": "^0.9.0",
+    "metalsmith-copy": "^0.2.1",
+    "metalsmith-discover-partials": "^0.1.0",
+    "metalsmith-in-place": "^1.4.4",
+    "metalsmith-layouts": "1.5.4",
+    "metalsmith-markdown": "^0.2.2",
+    "metalsmith-metadata": "0.0.4",
+    "metalsmith-navigation": "^0.2.9",
+    "metalsmith-permalinks": "^0.5.0",
+    "metalsmith-sitemap": "^1.0.0",
+    "metalsmith-text-replace": "^1.0.1",
+    "multimatch": "^2.1.0"
+  },
+  "devDependencies": {}
+}

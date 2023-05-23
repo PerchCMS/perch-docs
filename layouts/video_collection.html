@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{title}} - Perch CMS documentation</title>
+  <meta name="description" content="{{ description }}">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{ description }}">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link href="/assets/css/docs.css" rel="stylesheet">
+  <script type="text/javascript" src="//use.typekit.net/kiw6gix.js"></script>
+  	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+</head>
+<body>
+  <nav class="global-bar show-for-small-only">
+    <ul class="nav-products">
+        <li class="docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+    </ul>
+    <a href="?nav=show" class="hamburger">☰</a>
+</nav>
+<nav class="global-bar primary show-for-medium">
+    <ul class="nav-products">
+        <li class="perch"><a href="https://grabaperch.com">Perch</a></li>
+        <li class="runway"><a href="https://perchrunway.com">Runway</a></li>
+        <li class="shop"><a href="https://shop.perchcms.com">Perch Shop</a></li>
+        <li class="addons first-right"><a href="https://grabaperch.com/add-ons">Add-ons</a></li>
+        <li class="selected docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+        <li class="support"><a href="https://community.perchcms.com/forum/">Support</a></li>
+        <li class="account"><a href="https://grabaperch.com/account">Account</a></li>
+    </ul>
+</nav>
+{{> site_nav}}
+
+<main class="wrapper">
+    <nav class="sidebar">
+    {{> nav_global}}
+  </nav>
+
+<article class="content">
+
+
+    {{#each collections}}
+
+      {{#equal @key ../use_collection}}
+
+        <h1>{{ metadata.title }}</h1>
+        <p>{{ metadata.description }}</p>
+
+        <ul class="video-thumb-list">
+        {{#each @this}}
+          <li>
+            <a href="/{{path}}">
+              <img src="https://img.youtube.com/vi/{{video_id}}/maxresdefault.jpg" alt="{{title}}"> 
+              <span class="badge">{{duration}}</span>
+                <h3>{{title}}</h3>
+            </a>
+              <p>{{desc}}</p>
+          </li>
+
+        {{/each}}
+        </ul>
+
+      {{/equal}}
+
+    {{/each}}
+
+
+
+
+
+</article>
+
+
+
+
+</main>
+{{> footer}}
+</body>
+</html>

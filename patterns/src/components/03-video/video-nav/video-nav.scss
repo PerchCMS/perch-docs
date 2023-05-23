@@ -1,0 +1,52 @@
+.sidenav.with-video {
+  position: sticky;
+  top: 10em;
+} 
+
+.video-nav {
+  margin: 0;
+  list-style: none;
+  border-top: 1px solid #efefef;
+  border-right: 1px solid #efefef;
+  position: sticky;
+  top: 10em;
+}
+
+.video-nav li {
+  border-bottom: 1px solid #efefef;
+  border-left: 5px solid #efefef;
+  padding: 0 10px 0 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.video-nav li a {
+  font-weight: normal;
+}
+
+.video-nav li.selected a {
+  font-weight: bold;
+}
+
+.video-nav li.selected,
+.video-nav li:hover {
+  border-left: 5px solid $primary-color;  
+}
+
+.video-nav .badge {
+  display: block;
+  margin-left: auto;
+  min-height: 30px;
+  min-width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $light-gray;
+  color: $dark-gray;
+}
+
+.video-nav .selected .badge {
+  background-color: $badge-background; 
+  color: $badge-color;
+}

@@ -1,0 +1,730 @@
+- title: "Add Perch to a Page"
+  desc: "To start editing content with Perch you need to add Perch to the page. This video shows how."
+  wistia_id: 12391065
+  hashed_id: dfqostmmqy
+  poster: https://embed-ssl.wistia.com/deliveries/c898cd9f5ef801a8a313542f3294a8e0e1b37b2d.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/c898cd9f5ef801a8a313542f3294a8e0e1b37b2d.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: add-perch-to-a-page
+  duration: "02:27"
+- title: "Creating a Perch Template"
+  desc: "A guide to creating your first Perch template."
+  wistia_id: 12403868
+  hashed_id: ki3q7qxkez
+  poster: https://embed-ssl.wistia.com/deliveries/0607367028d25821a50c58e2dbf2e071d52f2d0f.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/0607367028d25821a50c58e2dbf2e071d52f2d0f.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: creating-a-perch-template
+  duration: "03:44"
+- title: "The Diagnostics Report"
+  desc: "An explanation of what the Diagnostics Report is."
+  wistia_id: 12404212
+  hashed_id: 1kfol1nfnf
+  poster: https://embed-ssl.wistia.com/deliveries/d8be6cce9054af278d21b6ddc5306cb0e254b5ce.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/d8be6cce9054af278d21b6ddc5306cb0e254b5ce.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: the-diagnostics-report
+  duration: "01:44"
+- title: "Shared Regions"
+  desc: "Sharing a Region so the content can be edited once but display on multiple pages."
+  wistia_id: 12423434
+  hashed_id: pzkqysi787
+  poster: https://embed-ssl.wistia.com/deliveries/814245ad2d26ec430160b055a78610d63f768fe4.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/814245ad2d26ec430160b055a78610d63f768fe4.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: shared-regions
+  duration: "01:55"
+- title: "Adding Help"
+  desc: "Add help text to the top of edit forms and inline with fields to guide your clients and content editors."
+  wistia_id: 12447126
+  hashed_id: ryswt6lir6
+  poster: https://embed-ssl.wistia.com/deliveries/06ef5352b9e3472f320021e15fa8a6545bc6fe10.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/06ef5352b9e3472f320021e15fa8a6545bc6fe10.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: adding-help
+  duration: "02:32"
+- title: "Order Fields and Using Template Dividers"
+  desc: "Making the admin experience better by creating a logical field order and dividing up the form."
+  wistia_id: 12447131
+  hashed_id: 8egi3wixqn
+  poster: https://embed-ssl.wistia.com/deliveries/ee81a061a00866a1f5e329aa67469f0dae3321c1.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/ee81a061a00866a1f5e329aa67469f0dae3321c1.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: order-fields-and-using-template-dividers
+  duration: "02:44"
+- title: "Installing the Redactor Editor"
+  desc: "How to install an Editor Plugin for use with Perch."
+  wistia_id: 12447806
+  hashed_id: nzgzlhist3
+  poster: https://embed-ssl.wistia.com/deliveries/e77e75153f1843d9faf31831240ad5fb2dd05080.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/e77e75153f1843d9faf31831240ad5fb2dd05080.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: installing-the-redactor-editor
+  duration: "02:28"
+- title: "Reuse an ID in a Template"
+  desc: "Using an ID twice means that the content editor can enter content once and it be used in more than one place in the template."
+  wistia_id: 12453983
+  hashed_id: 4iezxkcu37
+  poster: https://embed-ssl.wistia.com/deliveries/ca432f5296c0aafe70555004db4adcfb248dabe4.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/ca432f5296c0aafe70555004db4adcfb248dabe4.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: reuse-an-id-in-a-template
+  duration: "02:10"
+- title: "Template Tag Type Select"
+  desc: "A guide to using the select template tag type."
+  wistia_id: 12454178
+  hashed_id: jms81tblrz
+  poster: https://embed-ssl.wistia.com/deliveries/85b8363ea11a8284b986c039a23b549637beff09.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/85b8363ea11a8284b986c039a23b549637beff09.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-tag-type-select
+  duration: "03:40"
+- title: "The Default Templates"
+  desc: "A guide to the templates included with a standard Perch install."
+  wistia_id: 12457810
+  hashed_id: jyi2j1gk13
+  poster: https://embed-ssl.wistia.com/deliveries/f6cfbcc023b734f86074c621e7a636941ff1c966.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/f6cfbcc023b734f86074c621e7a636941ff1c966.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: the-default-templates
+  duration: "02:32"
+- title: "Drafts and Preview"
+  desc: "Creating a draft and previewing changes before making content live."
+  wistia_id: 12457830
+  hashed_id: h2x0p62uvh
+  poster: https://embed-ssl.wistia.com/deliveries/8bdde0296d3bd3260d2ae5ed5cc0f58d6708e79d.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/8bdde0296d3bd3260d2ae5ed5cc0f58d6708e79d.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: drafts-and-preview
+  duration: "01:05"
+- title: "Perch Editing Shortcuts"
+  desc: "How to use the editing shortcuts to save and Ctrl-E to edit."
+  wistia_id: 12457831
+  hashed_id: pyg0e94yy6
+  poster: https://embed-ssl.wistia.com/deliveries/11a5434463d38ff8635085230dbb8e49bb6bf826.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/11a5434463d38ff8635085230dbb8e49bb6bf826.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: perch-editing-shortcuts
+  duration: "01:35"
+- title: "Multiple Item Regions"
+  desc: "Creating a Region that repeats."
+  wistia_id: 12457851
+  hashed_id: hl24npbmub
+  poster: https://embed-ssl.wistia.com/deliveries/f3e346eb38b9bf88985a01f5950e52a756bc1dfb.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/f3e346eb38b9bf88985a01f5950e52a756bc1dfb.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: multiple-item-regions
+  duration: "01:40"
+- title: "Region Options"
+  desc: "An overview of Region Options in the Perch Control Panel."
+  wistia_id: 12457857
+  hashed_id: 0lhn6sqo1p
+  poster: https://embed-ssl.wistia.com/deliveries/fbef4a473c7bbcbdc788e73a03b58c155b832008.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/fbef4a473c7bbcbdc788e73a03b58c155b832008.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: region-options
+  duration: "01:57"
+- title: "Template Tag Type SmartText"
+  desc: "An explanation of the smarttext template tag type."
+  wistia_id: 12457875
+  hashed_id: 51e2kffewk
+  poster: https://embed-ssl.wistia.com/deliveries/da14929330e29a9d65dbaf6734a4295965f31f04.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/da14929330e29a9d65dbaf6734a4295965f31f04.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-tag-type-smarttext
+  duration: "01:30"
+- title: "Template Tag Type Text"
+  desc: "An explanation of the single line text field type."
+  wistia_id: 12457889
+  hashed_id: 5v511mwoq5
+  poster: https://embed-ssl.wistia.com/deliveries/78820bc49d9f34dbb927d12aa1d7c078101e942b.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/78820bc49d9f34dbb927d12aa1d7c078101e942b.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-tag-type-text
+  duration: "01:16"
+- title: "Template Tag Type Textarea"
+  desc: "How to use the textarea template tag type."
+  wistia_id: 12457916
+  hashed_id: 86stp8sr4b
+  poster: https://embed-ssl.wistia.com/deliveries/4fdab821759c389db70894a45b38aa8adfd898e5.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/4fdab821759c389db70894a45b38aa8adfd898e5.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-tag-type-textarea
+  duration: "02:48"
+- title: "Perch Template Tags"
+  desc: "An explanation of how the Perch Template Tags are formed."
+  wistia_id: 12457917
+  hashed_id: ghs8olgq0z
+  poster: https://embed-ssl.wistia.com/deliveries/0d928b54a60203933cd7bd2fa95791bff129fa53.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/0d928b54a60203933cd7bd2fa95791bff129fa53.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: perch-template-tags
+  duration: "01:50"
+- title: "Template Tag Type Date"
+  desc: "How to use the template tag type of date, including formatting the output."
+  wistia_id: 12457923
+  hashed_id: vs19gvwmux
+  poster: https://embed-ssl.wistia.com/deliveries/b4878a66e9694a23fbeb711821f6c34e724f66fc.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/b4878a66e9694a23fbeb711821f6c34e724f66fc.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-tag-type-date
+  duration: "02:39"
+- title: "Filtering a Region"
+  desc: "Filtering a Region using perch_content_custom."
+  wistia_id: 12472663
+  hashed_id: s2cxvz7z2r
+  poster: https://embed-ssl.wistia.com/deliveries/5cd3047b3525f96512054ea7caa0f534f8fe06d3.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/5cd3047b3525f96512054ea7caa0f534f8fe06d3.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: filtering-a-region
+  duration: "03:01"
+- title: "Pagination"
+  desc: "Pagination of Perch content."
+  wistia_id: 12473043
+  hashed_id: tx9651jxtz
+  poster: https://embed-ssl.wistia.com/deliveries/83f9a14b2f4ee27556cd379323934477ac7b99e9.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/83f9a14b2f4ee27556cd379323934477ac7b99e9.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: techniques-pagination
+  duration: "01:40"
+- title: "Layout Variables"
+  desc: "An explanation of how to use Layout Variables in Perch Layouts"
+  wistia_id: 12473149
+  hashed_id: piy8y7chvj
+  poster: https://embed-ssl.wistia.com/deliveries/89f3ba78d220a44b74e41b8770c4ca78c66b770f.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/89f3ba78d220a44b74e41b8770c4ca78c66b770f.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: techniques-using-layout-variables
+  duration: "04:11"
+- title: "Layouts"
+  desc: "Watch this video to see a demonstration of Perch Layouts."
+  wistia_id: 12473227
+  hashed_id: 12yv81fj4k
+  poster: https://embed-ssl.wistia.com/deliveries/126ef328c4b99eb66ae7511e4da1b21c40ec63d9.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/126ef328c4b99eb66ae7511e4da1b21c40ec63d9.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: techniques-using-layouts
+  duration: "02:54"
+- title: "Template Tag Type Image"
+  desc: "The image tag type explained."
+  wistia_id: 12473300
+  hashed_id: w752k4rc6a
+  poster: https://embed-ssl.wistia.com/deliveries/854516976d6b79464424437c0e6d0c3a8c70cf89.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/854516976d6b79464424437c0e6d0c3a8c70cf89.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-tag-type-image
+  duration: "02:27"
+- title: "Perch Conditionals - Every"
+  desc: "Using perch:before and after, and the Perch Conditional tag every to add some markup for every third iteration of a region."
+  wistia_id: 12473624
+  hashed_id: 7avr2w8bpt
+  poster: https://embed-ssl.wistia.com/deliveries/621fcc5807f2e10b3c327ac276cbcddaf0e073d7.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/621fcc5807f2e10b3c327ac276cbcddaf0e073d7.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: perch-conditionals-every
+  duration: "03:22"
+- title: "Page Attributes"
+  desc: "Using Page Attributes and creating page attribute templates."
+  wistia_id: 12473808
+  hashed_id: ezhatvhc7l
+  poster: https://embed-ssl.wistia.com/deliveries/a144c0ac42f4adec8eb1b3fd58f78fbe25c919af.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/a144c0ac42f4adec8eb1b3fd58f78fbe25c919af.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: page-attributes
+  duration: "04:18"
+- title: "Sorting a Region"
+  desc: "How to sort a region using perch_content_custom."
+  wistia_id: 12473844
+  hashed_id: u0u42eqocs
+  poster: https://embed-ssl.wistia.com/deliveries/36b357ff23e24602643064fdacc2e051ded3a83e.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/36b357ff23e24602643064fdacc2e051ded3a83e.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: sorting-a-region
+  duration: "02:12"
+- title: "Repeaters"
+  desc: "A demonstration of repeaters functionality."
+  wistia_id: 12474064
+  hashed_id: 5m0h43iusk
+  poster: https://embed-ssl.wistia.com/deliveries/d4581a19f4fa822ea5b1bcaeab96e66b6be7a063.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/d4581a19f4fa822ea5b1bcaeab96e66b6be7a063.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: perch-23-repeaters
+  duration: "02:17"
+- title: "Portfolio with Categories"
+  desc: "Creating a portfolio using the Categories App."
+  wistia_id: 12474310
+  hashed_id: iyxged2bmo
+  poster: https://embed-ssl.wistia.com/deliveries/b0748b489609a10a8bc6edd40b4862391a7f2343.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/b0748b489609a10a8bc6edd40b4862391a7f2343.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: portfolio-with-categories
+  duration: "07:22"
+- title: "Gallery A Simple Portfolio"
+  desc: "Creating a simple portfolio site using the Perch Gallery App."
+  wistia_id: 12474350
+  hashed_id: cwde506qzn
+  poster: https://embed-ssl.wistia.com/deliveries/3b460f30b33941634a6e5df8a4cbf84437560eb0.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/3b460f30b33941634a6e5df8a4cbf84437560eb0.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: gallery-a-simple-portfolio
+  duration: "04:41"
+- title: "Running the compatibility test"
+  desc: "A video demonstrating the Perch Server test and possible error messages."
+  wistia_id: 12476413
+  hashed_id: v8rf9qy72m
+  poster: https://embed-ssl.wistia.com/deliveries/e357921c161ec15dad5a88bc967e07f0723d59e0.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/e357921c161ec15dad5a88bc967e07f0723d59e0.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: running-the-compatibility-test
+  duration: "07:47"
+- title: "Using Blocks to create a photo essay blog post"
+  desc: ""
+  wistia_id: 13131393
+  hashed_id: 1zang6bxwg
+  poster: https://embed-ssl.wistia.com/deliveries/037e57a33be14d8f8b01e7fb0ec57bc088bcf8b2.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/037e57a33be14d8f8b01e7fb0ec57bc088bcf8b2.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: using-blocks-to-create-a-photo-essay-blog-post
+  duration: "06:30"
+- title: "Introduction to Blocks"
+  desc: ""
+  wistia_id: 13147987
+  hashed_id: k99cdfa8be
+  poster: https://embed-ssl.wistia.com/deliveries/2fdf201aa3cbc6a810e51c92a2d951c6a5074a73.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/2fdf201aa3cbc6a810e51c92a2d951c6a5074a73.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: introduction-to-blocks
+  duration: "04:50"
+- title: "Template includes and Blocks"
+  desc: ""
+  wistia_id: 13147988
+  hashed_id: vf8yfqr8hw
+  poster: https://embed-ssl.wistia.com/deliveries/8c9326197da3c3a6b0f6e9a1a6a44ec4090110b4.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/8c9326197da3c3a6b0f6e9a1a6a44ec4090110b4.jpg?image_crop_resized=200x120
+  album_id: 1281142
+  album: "Techniques"
+  slug: template-includes-and-blocks
+  duration: "03:08"
+- title: "Introduction to Collections"
+  desc: "Collections are large, structured content stores, not tied to a specific page."
+  wistia_id: 12404861
+  hashed_id: qw4bcjfmlf
+  poster: https://embed-ssl.wistia.com/deliveries/51df945b33f9bd0ae6fa034055214f606adb08d2.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/51df945b33f9bd0ae6fa034055214f606adb08d2.jpg?image_crop_resized=200x120
+  album_id: 1284599
+  album: "Perch Runway"
+  slug: introduction-to-collections
+  duration: "01:34"
+- title: "Backing up to Dropbox"
+  desc: "Using the backup functionality to copy site data to Dropbox"
+  wistia_id: 12404866
+  hashed_id: w9fan83c68
+  poster: https://embed-ssl.wistia.com/deliveries/7931632616f9bad430140eaf132d5d20b346781c.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/7931632616f9bad430140eaf132d5d20b346781c.jpg?image_crop_resized=200x120
+  album_id: 1284599
+  album: "Perch Runway"
+  slug: backing-up-to-dropbox
+  duration: "01:34"
+- title: "Related content in Runway"
+  desc: "Creating powerful content relationships using template tags."
+  wistia_id: 12404873
+  hashed_id: wo2jd6gc00
+  poster: https://embed-ssl.wistia.com/deliveries/4ab457c28415064984a6fa7ef1c869ac3f47d3a2.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/4ab457c28415064984a6fa7ef1c869ac3f47d3a2.jpg?image_crop_resized=200x120
+  album_id: 1284599
+  album: "Perch Runway"
+  slug: related-content-in-runway
+  duration: "07:24"
+- title: "Runway site migration"
+  desc: "Using the backup and restore functionality to migrate a site between servers."
+  wistia_id: 12404941
+  hashed_id: k1t74ca5va
+  poster: https://embed-ssl.wistia.com/deliveries/279ef150d1fec44c8aa0b766f378f988a9d74a4e.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/279ef150d1fec44c8aa0b766f378f988a9d74a4e.jpg?image_crop_resized=200x120
+  album_id: 1284599
+  album: "Perch Runway"
+  slug: runway-site-migration
+  duration: "04:13"
+- title: "Editing a site with Perch"
+  desc: "A simple-case walkthrough showing how content can be quickly added and edited with Perch."
+  wistia_id: 12424779
+  hashed_id: 9l1ekmabyl
+  poster: https://embed-ssl.wistia.com/deliveries/5de4372484fa99f235bad381a763035a538e8028.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/5de4372484fa99f235bad381a763035a538e8028.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: editing-a-site-with-perch
+  duration: "07:50"
+- title: "The Assets Panel"
+  desc: "An introduction to the Assets Panel."
+  wistia_id: 12472040
+  hashed_id: ek8pudp2mp
+  poster: https://embed-ssl.wistia.com/deliveries/81dcbd2271d73931ba5f915a7680188440207be2.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/81dcbd2271d73931ba5f915a7680188440207be2.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: introduction-to-assets
+  duration: "03:01"
+- title: "The Perch Control Panel"
+  desc: "An overview of the Perch control panel."
+  wistia_id: 12472805
+  hashed_id: st7nf9xx9a
+  poster: https://embed-ssl.wistia.com/deliveries/dca14383883aaf69a0bbdcd82a7ce7943c0ee63d.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/dca14383883aaf69a0bbdcd82a7ce7943c0ee63d.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: the-perch-control-panel
+  duration: "01:39"
+- title: "Users and Roles"
+  desc: "This video demonstrates the Users and Roles features in Perch"
+  wistia_id: 12475000
+  hashed_id: a97yksrel6
+  poster: https://embed-ssl.wistia.com/deliveries/95a34ebdb6b9c8b7361374639d7e8529331c2e7d.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/95a34ebdb6b9c8b7361374639d7e8529331c2e7d.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: users-and-roles
+  duration: "03:28"
+- title: "Perch Assets"
+  desc: "Quick overview of the Assets panel."
+  wistia_id: 12476553
+  hashed_id: 0w4zovhas6
+  poster: https://embed-ssl.wistia.com/deliveries/bcf00fb8c303b9da060afafdfd869c078125ef69.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/bcf00fb8c303b9da060afafdfd869c078125ef69.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: perch-assets
+  duration: "00:49"
+- title: "Blocks"
+  desc: ""
+  wistia_id: 12921382
+  hashed_id: qxekda72v9
+  poster: https://embed-ssl.wistia.com/deliveries/1c4cf9da16fd2da9b40f53ccfbbf0ea3a09dc5ff.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/1c4cf9da16fd2da9b40f53ccfbbf0ea3a09dc5ff.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: blocks
+  duration: "01:59"
+- title: "Undo and the History Stack"
+  desc: ""
+  wistia_id: 13148063
+  hashed_id: zumlm7bghh
+  poster: https://embed-ssl.wistia.com/deliveries/f10b61500866cd92d6573de86f1dc58bab40c2b0.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/f10b61500866cd92d6573de86f1dc58bab40c2b0.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: undo-and-the-history-stack
+  duration: "01:26"
+- title: "what-are-perch-regions"
+  desc: ""
+  wistia_id: 13148122
+  hashed_id: fmq6uhydmv
+  poster: https://embed-ssl.wistia.com/deliveries/2ddaf287dba113bc33bf7d4c0469a91b590ec01e.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/2ddaf287dba113bc33bf7d4c0469a91b590ec01e.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: what-are-perch-regions
+  duration: "02:20"
+- title: "Perch Shop update October 2015"
+  desc: ""
+  wistia_id: 16085583
+  hashed_id: f5zh9p4nxt
+  poster: https://embed-ssl.wistia.com/deliveries/f262c04641164bb0bd427251ffe3b58c4757f7ba.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/f262c04641164bb0bd427251ffe3b58c4757f7ba.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: perch-shop-update-october-2015
+  duration: "29:15"
+- title: "Using the Foundation framework with Perch"
+  desc: ""
+  wistia_id: 16887981
+  hashed_id: jq6l5n4dkg
+  poster: https://embed-ssl.wistia.com/deliveries/30cdae4486e5ecf756368e4f0cdb242b4b9edfac.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/30cdae4486e5ecf756368e4f0cdb242b4b9edfac.jpg?image_crop_resized=200x120
+  album_id: 1287730
+  album: "Overviews"
+  slug: using-the-foundation-framework-with-perch
+  duration: "34:04"
+- title: "1. Introduction"
+  desc: "Getting started by installing Perch."
+  wistia_id: 12469594
+  hashed_id: i49cog6icv
+  poster: https://embed-ssl.wistia.com/deliveries/2cc7cda718bed5f4bce7ed8463f1997c0724cdd3.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/2cc7cda718bed5f4bce7ed8463f1997c0724cdd3.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: introduction-to-the-swift-site
+  duration: "01:14"
+- title: "2. Installation"
+  desc: "Installing Perch to start working on the Swift Migrations website"
+  wistia_id: 12469596
+  hashed_id: 2wlkqd2s9n
+  poster: https://embed-ssl.wistia.com/deliveries/cac5b6c69253221590c2d2ee5eff34f822c4539c.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/cac5b6c69253221590c2d2ee5eff34f822c4539c.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: installing-perch
+  duration: "02:01"
+- title: "4. Creating a Template"
+  desc: "Creating your own templates so that they can have the exact markup that you need."
+  wistia_id: 12469606
+  hashed_id: 9sa5jgucww
+  poster: https://embed-ssl.wistia.com/deliveries/73a643a1bba39bc85bc60f146b2e2d348bbfa49a.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/73a643a1bba39bc85bc60f146b2e2d348bbfa49a.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: creating-a-template
+  duration: "03:40"
+- title: "3. Editing Content"
+  desc: "Using Perch to get started editing simple content on your website."
+  wistia_id: 12469613
+  hashed_id: 0vmzzujjb4
+  poster: https://embed-ssl.wistia.com/deliveries/0fd05b71c524737875acb823b5e0e0833963ccf2.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/0fd05b71c524737875acb823b5e0e0833963ccf2.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: editing-content
+  duration: "02:22"
+- title: "5. Required Fields and Conditionals"
+  desc: "Setting some fields as required and using simple conditionals to check if non-required fields have been completed before displaying markup."
+  wistia_id: 12469615
+  hashed_id: 9fa9ax7fv7
+  poster: https://embed-ssl.wistia.com/deliveries/bab837236c944e3dd8bf97a25a59b9fbf661821a.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/bab837236c944e3dd8bf97a25a59b9fbf661821a.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: required-fields-and-conditionals
+  duration: "01:21"
+- title: "6. Creating Pages"
+  desc: "This video introduces master pages and demonstrates how content editors can add new pages using Perch."
+  wistia_id: 12469622
+  hashed_id: 73kqnw17lw
+  poster: https://embed-ssl.wistia.com/deliveries/b451f8ceb6b88847db94ed214c2dac1d9be0aaac.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/b451f8ceb6b88847db94ed214c2dac1d9be0aaac.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: creating-pages
+  duration: "05:31"
+- title: "7. Creating a Contact Details Template"
+  desc: "We create a template for contact details. This is a slightly more complex template example."
+  wistia_id: 12469633
+  hashed_id: pm7qycnyz5
+  poster: https://embed-ssl.wistia.com/deliveries/f850098d7ed648f00b254859cd9c6a6de0302c8c.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/f850098d7ed648f00b254859cd9c6a6de0302c8c.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: creating-a-contact-details-template
+  duration: "02:46"
+- title: "8. Shared Regions"
+  desc: "We display contact details around the site using a Shared Region so this content only needs to be added and updated in one place."
+  wistia_id: 12469642
+  hashed_id: cszs45l7x6
+  poster: https://embed-ssl.wistia.com/deliveries/d732954da5dafc90c7e6335d263e27456d566fec.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/d732954da5dafc90c7e6335d263e27456d566fec.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: shared-regions
+  duration: "01:51"
+- title: "9. Google Maps"
+  desc: "We use Perch to add a Google Map to the page. The editor can choose the location and zoom level."
+  wistia_id: 12469649
+  hashed_id: gk7jyg2j0e
+  poster: https://embed-ssl.wistia.com/deliveries/6a9ec6182fd312d672ac113824804bc0f1ba02c4.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/6a9ec6182fd312d672ac113824804bc0f1ba02c4.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: google-maps
+  duration: "01:52"
+- title: "10. Contact Form"
+  desc: "Adding a simple contact form to the site. The free Forms App means you can send responses by email or store them for download."
+  wistia_id: 12469658
+  hashed_id: w4xr3hnd04
+  poster: https://embed-ssl.wistia.com/deliveries/ec3dcc5f9096354604d2c2dce0dd6a8743b584ea.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/ec3dcc5f9096354604d2c2dce0dd6a8743b584ea.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: a-contact-form
+  duration: "03:35"
+- title: "11. Form Error Messages"
+  desc: "Perch enables the creation of flexible error messaging on your forms."
+  wistia_id: 12469668
+  hashed_id: 3xgrqvzl9k
+  poster: https://embed-ssl.wistia.com/deliveries/d176fceaaac6184ec0637d9dfff875762c6cb999.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/d176fceaaac6184ec0637d9dfff875762c6cb999.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: form-error-messages
+  duration: "02:21"
+- title: "12. Repeating Regions"
+  desc: "Create a team page that allows content editors to add as many team members as they need, using a repeating region."
+  wistia_id: 12469676
+  hashed_id: 50lbx84pnl
+  poster: https://embed-ssl.wistia.com/deliveries/c43550211b044120a07bd44e0067a40dfa2f9c13.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/c43550211b044120a07bd44e0067a40dfa2f9c13.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: repeating-regions
+  duration: "02:07"
+- title: "13. Repeaters"
+  desc: "Using Repeaters - a repeating area within a repeating region."
+  wistia_id: 12469686
+  hashed_id: j4x0oru2fk
+  poster: https://embed-ssl.wistia.com/deliveries/e9439cf5ac78d80c0d34bba50ba5fdf7b2f3e60c.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/e9439cf5ac78d80c0d34bba50ba5fdf7b2f3e60c.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: repeaters
+  duration: "01:32"
+- title: "14. Using perch_content_custom()"
+  desc: "Randomly displaying two testimonials from a list on the homepage. This tutorial introduces the flexible perch_content_custom()."
+  wistia_id: 12469697
+  hashed_id: j75fvswcnk
+  poster: https://embed-ssl.wistia.com/deliveries/f3be9c559d05df705888153936153e5bc9a19f1f.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/f3be9c559d05df705888153936153e5bc9a19f1f.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: using-perchcontentcustom
+  duration: "02:39"
+- title: "15. Installing the Blog app"
+  desc: "To add a blog we must first install the Perch Blog app - a free add-on to Perch."
+  wistia_id: 12469702
+  hashed_id: fssln2mxf1
+  poster: https://embed-ssl.wistia.com/deliveries/dac7537fef17d3809f7c08f64623ca4788d0fde1.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/dac7537fef17d3809f7c08f64623ca4788d0fde1.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: installing-the-blog-app
+  duration: "01:41"
+- title: "16. Adding Own Design to Blog"
+  desc: "Editing the default blog pages to fit your own design."
+  wistia_id: 12469714
+  hashed_id: 11wyrz9l2l
+  poster: https://embed-ssl.wistia.com/deliveries/6dc35a7f22e3a7212d339a8038cb5c47c53af11c.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/6dc35a7f22e3a7212d339a8038cb5c47c53af11c.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: adding-your-own-design-to-the-blog
+  duration: "03:10"
+- title: "17. Editing the Blog Templates"
+  desc: "Editing the blog templates to complete the design."
+  wistia_id: 12469723
+  hashed_id: r0po7llk28
+  poster: https://embed-ssl.wistia.com/deliveries/3840252fa3c36028b48980fe2329d74028d67105.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/3840252fa3c36028b48980fe2329d74028d67105.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: editing-the-blog-templates
+  duration: "03:56"
+- title: "18. Adding Blog posts to the homepage"
+  desc: "Use perch_blog_custom to display the most recent posts on the homepage."
+  wistia_id: 12469727
+  hashed_id: kmsikwuy40
+  poster: https://embed-ssl.wistia.com/deliveries/feb5f28e0852a5e30f6173352684d101286eb744.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/feb5f28e0852a5e30f6173352684d101286eb744.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: adding-blog-posts-to-the-homepage
+  duration: "02:12"
+- title: "19. Adding a Blog RSS Feed"
+  desc: "Edit the default feed template to create your own RSS feed."
+  wistia_id: 12476172
+  hashed_id: exg2qcgize
+  poster: https://embed-ssl.wistia.com/deliveries/68ee85284a0c3dcab61d2e07e74909ac6d8415ad.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/68ee85284a0c3dcab61d2e07e74909ac6d8415ad.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: create-a-blog-rss-feed
+  duration: "01:22"
+- title: "20. Simple URL Rewriting"
+  desc: "Create clean, search engine friendly URLs for your site and blog."
+  wistia_id: 12476384
+  hashed_id: mpyiep4pdc
+  poster: https://embed-ssl.wistia.com/deliveries/b7ea1c843e514da9c00d9ef44d2a4f7535275fc9.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/b7ea1c843e514da9c00d9ef44d2a4f7535275fc9.jpg?image_crop_resized=200x120
+  album_id: 1293198
+  album: "Swift Migrations"
+  slug: simple-url-rewriting
+  duration: "03:10"
+- title: "creating-a-video"
+  desc: ""
+  wistia_id: 15381489
+  hashed_id: qf6muo2ctu
+  poster: https://embed-ssl.wistia.com/deliveries/394196d1a535b7b9e7fe75239651b35bee9d6bb9.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/394196d1a535b7b9e7fe75239651b35bee9d6bb9.jpg?image_crop_resized=200x120
+  album_id: 1846486
+  album: "Blog"
+  slug: creating-a-video
+  duration: "03:11"
+- title: "blog-intro-video"
+  desc: ""
+  wistia_id: 15779316
+  hashed_id: yqz97e1alc
+  poster: https://embed-ssl.wistia.com/deliveries/c5738eaa8d20bab0b75d854ac03ef35640dc7140.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/c5738eaa8d20bab0b75d854ac03ef35640dc7140.jpg?image_crop_resized=200x120
+  album_id: 1910617
+  album: "Product videos"
+  slug: blog-intro-video
+  duration: "01:58"
+- title: "Shop Preview: Managing your shop and products"
+  desc: ""
+  wistia_id: 17201076
+  hashed_id: 8jy287im6c
+  poster: https://embed-ssl.wistia.com/deliveries/4302834f258bffc789fe2891f2c2a2e0bfaf2309.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/4302834f258bffc789fe2891f2c2a2e0bfaf2309.jpg?image_crop_resized=200x120
+  album_id: 1910617
+  album: "Product videos"
+  slug: shop-preview-managing-your-shop-and-products
+  duration: "02:08"
+- title: "Shop Preview: Buying and checking out with Stripe"
+  desc: ""
+  wistia_id: 17201457
+  hashed_id: hdzzp545fo
+  poster: https://embed-ssl.wistia.com/deliveries/b4deb755a4da91f607e99d8bff09e3e579370a17.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/b4deb755a4da91f607e99d8bff09e3e579370a17.jpg?image_crop_resized=200x120
+  album_id: 1910617
+  album: "Product videos"
+  slug: shop-preview-buying-and-checking-out-with-stripe
+  duration: "01:35"
+- title: "Content management with Perch and Adobe Muse"
+  desc: ""
+  wistia_id: 20649507
+  hashed_id: fuupdz5p71
+  poster: https://embed-ssl.wistia.com/deliveries/45a5d57f010c2f8158dc83999c1ebda1a4712102.jpg?image_crop_resized=200x120
+  thumb: https://embed-ssl.wistia.com/deliveries/45a5d57f010c2f8158dc83999c1ebda1a4712102.jpg?image_crop_resized=200x120
+  album_id: 2383942
+  album: "Integrations"
+  slug: content-management-with-perch-and-adobe-muse
+  duration: "13:01"

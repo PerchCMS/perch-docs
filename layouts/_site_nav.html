@@ -1,0 +1,52 @@
+<nav class="site-nav">
+    <ul>
+        <li class="home-link{{#currentsection "perch" @root.nav_path}} selected{{/currentsection}}"><a href="/perch/">Perch Docs</a></li>
+        <li{{#currentsection "runway" @root.nav_path}} class="selected"{{/currentsection}}><a href="/runway/">Runway Docs</a></li>
+        <li{{#currentsection "video" @root.nav_path}} class="selected"{{/currentsection}}><a href="/video/">Video</a></li>
+        <li{{#currentsection "templates" @root.nav_path}} class="selected"{{/currentsection}}><a href="/templates/">Template Reference</a></li>
+        <li{{#currentsection "functions" @root.nav_path}} class="selected"{{/currentsection}}><a href="/functions/">Function Reference</a></li>
+        <li{{#currentsection "addons" @root.nav_path}} class="selected"{{/currentsection}}><a href="/addons/">Add-ons</a></li>
+        <li{{#currentsection "api" @root.nav_path}} class="selected"{{/currentsection}}><a href="/api/">API</a></li>
+    </ul>
+
+    <div class="global-search" role="search">
+      <div class="gcse-searchbox"></div>
+    </div>
+
+    <style>
+      .custom-search {
+        with
+      }
+  
+      table.gsc-input {
+        margin: 0;
+        height: 1.5em;
+      }
+
+      form.gsc-search-box {
+        margin: 0;
+      }
+
+      .gsc-search-box tbody {
+        border: none;
+      }
+
+      .gsc-search-box tbody td {
+        padding: 0;
+      }
+
+      .gsc-control-cse {
+        padding: 0;
+      }
+
+      .gsc-input-box {
+        border: none;
+      }
+
+      .gsc-search-box a {
+        padding: 0;
+      }
+    </style>
+</nav>
+
+<div class="gcse-searchresults"></div>

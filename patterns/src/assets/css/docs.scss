@@ -1,0 +1,12 @@
+@charset 'utf-8';
+@import 'palettes';
+@import 'util/util';
+
+@import 'themes/docs';
+@include add-foundation-colors;
+@import 'settings';
+
+@import 'common';
+
+// Import scss files from all the components
+@import "../../components/**/*.scss";

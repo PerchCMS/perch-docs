@@ -1,0 +1,43 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+
+
+
+.sidebar {
+  order: 2;
+  background-color: #efefef;
+  padding: 1em;
+  border-radius: 3px;
+}
+
+.content {
+  order: 1;
+}
+
+
+@media #{$medium-up} {
+  .wrapper {
+    flex-direction: row;
+    padding: 0;
+    clear: both;
+  }
+
+  .sidebar {
+    flex: 0 0 300px;
+    margin: 0 2em 0 0;
+    padding: 0 10px;
+    order: 1;
+    background-color: transparent;
+  }
+
+  .content {
+    width: 400px;
+    flex: 1 1 auto;
+    padding: 0 2em 0 0;
+    order: 2;
+  }
+
+}

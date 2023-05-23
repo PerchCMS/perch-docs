@@ -1,0 +1,15 @@
+.video-list {
+  margin: 0;
+  list-style: none;
+}
+
+.video-list li {
+  border-bottom: 1px solid #efefef;
+  padding: 1em 0;
+}
+
+.video-list .badge {
+  float: right;
+  display: block;
+  margin: 1em;
+}

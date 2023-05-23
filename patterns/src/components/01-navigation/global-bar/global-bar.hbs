@@ -1,0 +1,36 @@
+<nav class="global-bar show-for-small-only">
+  <ul class="nav-products">
+    <li class="shop"><a href="https://shop.perchcms.com">Perch Shop</a></li>
+  </ul>
+  <a href="?nav=show" class="hamburger">☰</a>
+</nav>
+<nav class="global-bar primary show-for-medium">
+  <ul class="nav-products">
+    <li class="perch"><a href="https://grabaperch.com">Perch</a></li>
+    <li class="runway"><a href="https://grabaperch.com/products/runway">Runway</a></li>
+    <li class="shop"><a href="https://shop.perchcms.com">Perch Shop</a></li>
+    <li class="addons first-right"><a href="https://grabaperch.com/add-ons">Add-ons</a></li>
+    <li class="selected docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+    <li class="support"><a href="https://forum.grabaperch.com">Support</a></li>
+    <li class="account"><a href="https://grabaperch.com/account">Account</a></li>
+  </ul>
+</nav>
+<script>
+if ("classList" in document.createElement("_")) {
+    var hb = document.querySelectorAll('.hamburger');
+    if (hb.length) {
+      hb[0].addEventListener('click', function(e) {
+        e.preventDefault();
+        var nav = document.querySelectorAll('nav.primary')[0];
+        if (!nav.classList.contains('show')) {
+          nav.classList.remove('show-for-medium', 'hide');
+          nav.classList.add('show');
+        } else {
+          nav.classList.remove('show');
+          nav.classList.add('hide');
+        }
+      });
+    }
+  }
+
+</script>

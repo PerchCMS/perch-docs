@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{{ title }}} - Perch CMS documentation</title>
+  <meta name="description" content="{{ description }}">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{ description }}">
+
+  <link href="/assets/css/docs.css" rel="stylesheet">
+
+</head>
+<body>
+  <nav class="global-bar show-for-small-only">
+    <ul class="nav-products">
+         <li class="docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+    </ul>
+    <a href="?nav=show" class="hamburger">☰</a>
+</nav>
+<nav class="global-bar primary show-for-medium">
+    <ul class="nav-products">
+        <li class="perch"><a href="https://grabaperch.com">Perch</a></li>
+        <li class="runway"><a href="https://perchrunway.com">Runway</a></li>
+        <li class="shop"><a href="https://shop.perchcms.com">Perch Shop</a></li>
+        <li class="addons first-right"><a href="https://grabaperch.com/add-ons">Add-ons</a></li>
+        <li class="selected docs"><a href="https://docs.grabaperch.com">Docs</a></li>
+        <li class="support"><a href="https://community.perchcms.com/forum/">Support</a></li>
+        <li class="account"><a href="https://grabaperch.com/account">Account</a></li>
+    </ul>
+</nav>
+{{> site_nav}}
+
+<main class="wrapper">
+    <nav class="sidebar">
+    <cms:content id="facets" />
+  	</nav>
+
+<article class="content">
+  <h1>{{{ title }}}</h1>
+
+  {{{ contents }}}
+  <cms:content id="content" />
+</article>
+
+
+
+
+</main>
+<footer>
+
+</footer>
+  <script src="/assets/js/prism.js" async defer></script>
+  <script>
+      if ("classList" in document.createElement("_")) {
+          var hb = document.querySelectorAll('.hamburger');
+          if (hb.length) {
+              hb[0].addEventListener('click', function(e) {
+                  e.preventDefault();
+                  var nav = document.querySelectorAll('nav.primary')[0];
+                  if (!nav.classList.contains('show')) {
+                      nav.classList.remove('show-for-medium', 'hide');
+                      nav.classList.add('show');
+                  } else {
+                      nav.classList.remove('show');
+                      nav.classList.add('hide');
+                  }
+              });
+          }
+      }
+  </script>
+</body>
+</html>

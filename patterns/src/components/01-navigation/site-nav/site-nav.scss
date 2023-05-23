@@ -1,0 +1,21 @@
+.site-nav {
+  background-color: map-get($foundation-palette, primary);
+  color: $white;
+  align-items: center;
+
+  @media #{$medium-up} {
+    position: sticky;
+    top: 0;
+  }
+  z-index: 100;
+}
+
+.site-nav li.selected {
+  background-color: map-get($foundation-palette, secondary);
+}
+
+.site-nav:before,
+.site-nav:after {
+    content: '';
+    display: table;
+}
