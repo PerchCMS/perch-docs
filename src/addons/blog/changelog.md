@@ -5,6 +5,11 @@ nav_groups:
 ---
 
 All notable changes to Perch Blog.
+## [5.6.2] - 2023-05-25
+### Fixed
+- Fixes for PHP 8.1 compatibility
+- Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
+
 
 ## [5.6]
 

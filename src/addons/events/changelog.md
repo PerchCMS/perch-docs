@@ -5,7 +5,10 @@ nav_groups:
 ---
 
 All notable changes to Perch Events.
-
+## [1.9.8]
+Fixind deprecations for PHP 8.1
+- Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
+ 
 ## [1.9.7]
 Fixind deprecations for PHP 8
 - Available only for subscriptions under <a href="https://account.perchcms.com/runway-addons">https://account.perchcms.com/runway-addons</a>
