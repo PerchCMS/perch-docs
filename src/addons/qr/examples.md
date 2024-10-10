@@ -7,7 +7,7 @@ nav_groups:
 A worked example for listing a QR with the QRGenerator App.
 
 
-## Poll
+## QR Generator
 
 - [Display QR in Page](/addons/qr/examples/qr)
 

@@ -1,5 +1,5 @@
 ---
-title: Blog App
+title: Twilio App
 layout: section.html
 nav_groups:
   - primary

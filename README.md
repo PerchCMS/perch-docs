@@ -33,3 +33,5 @@ node build
 ```
 
 The built output goes into the `public` folder. You can point a web server at that. The node module `http-server` is quite useful for this.
+
+```sudo systemctl restart apache2 and sudo systemctl restart nginx```
