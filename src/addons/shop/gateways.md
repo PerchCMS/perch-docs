@@ -15,6 +15,7 @@ Instructions are available for the following gateways:
 |[Stripe](/addons/shop/gateways/stripe/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||
 |[StripeSCA](/addons/shop/gateways/stripe-sca/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||
 |[Worldpay](/addons/shop/gateways/worldpay/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||||
+|[Revolut](/addons/shop/gateways/revolut/)|![Yes](/assets/svg/check.svg)|![Yes](/assets/svg/check.svg)||||
 
 
 Tax evidence collection happens for all transactions, but only some gateways enable us to retrieve the country the payment card is registered to.
